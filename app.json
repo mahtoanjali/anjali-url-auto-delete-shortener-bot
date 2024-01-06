@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/mahtoanjali/anjali-url-auto-delete-shortener-bot",
+    "repository": "https://github.com/mahtoanjali/anjali-url-auto-delete-shortener-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
